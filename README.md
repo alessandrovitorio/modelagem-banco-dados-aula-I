@@ -264,6 +264,6 @@ Sugestões de escopo:
 
 ---
 
-👨‍🏫 **Mensagem final para alunos apáticos:**
+👨‍🏫 **Mensagem final para alunos:**
 
 > Tudo que vocês usam no dia a dia (Netflix, WhatsApp, IFood, jogos online) só existe porque alguém modelou e criou um banco de dados para armazenar cada detalhe.
