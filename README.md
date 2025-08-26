@@ -167,11 +167,7 @@ Garantem segurança e integridade dos dados:
 
 ### **DER (simplificado em texto)**
 
-```
-Usuário (1) --------< Perfil
-Perfil (N) --------< Avaliação >-------- (N) Filme
-Filme (N) --------- Pertence >-------- (1) Gênero
-```
+!["DER -NETFLIX"]("./net-flix-db.png")
 
 ---
 
