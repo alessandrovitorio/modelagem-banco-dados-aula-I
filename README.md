@@ -167,7 +167,7 @@ Garantem segurança e integridade dos dados:
 
 ### **DER (simplificado em texto)**
 
-!["DER -NETFLIX"]("./net-flix-db.png")
+![Diagrama do Banco de Dados](./net-flix-db.png)
 
 ---
 
