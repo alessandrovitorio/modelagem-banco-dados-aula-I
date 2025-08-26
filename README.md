@@ -165,7 +165,7 @@ Garantem segurança e integridade dos dados:
 
 ---
 
-### **DER (simplificado em texto)**
+### ** 🎬 Modelo Netflix - DER**
 
 ![Diagrama do Banco de Dados](./net-flix-db.png)
 
