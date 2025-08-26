@@ -51,7 +51,7 @@ Modelagem de dados é o **processo de planejar e organizar os dados** antes de c
 
 ---
 
-### **Entidade Fraca 🪶**
+### **Entidade Fraca 😧**
 
 * Não existe sozinha, depende de outra.
 * A chave primária é formada pela chave da entidade forte (ou recebe um id próprio + FK).
